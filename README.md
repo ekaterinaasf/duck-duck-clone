@@ -1,4 +1,4 @@
-# Project Title
+# Duck Duck Go copying
 
 Copy of the design of [Duck Duck Go page](https://duckduckgo.com/)
 
