@@ -10,10 +10,10 @@
 
 | _Step Name_ | User Story | Changes in HTML | Changes in CSS |
 | --- | --- | --- | --- |
-| __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body`, and evaluation script | an empty main `style.css` and an existing evaluation style |
+| __Live Boilerplate__ | As an enthusiastic HYF student I would like to make a copy of web-design of the [Duck Duck Go site](https://duckduckgo.com/). | An empty template project with `doctype`, language, charset, `head` & `body`, and evaluation script | an empty main `style.css` and an existing evaluation style |
 |  | |  |  |
 | ... | ... | ... | ... |
-| (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
+| __Creating a structure__ | As a web-developer I need to specify main structure of an index page | Creating a set of div items to describe the content and divide it into specific parts. All is uploaded into [master branch](https://github.com/ekaterinaasf/duck-duck-clone) | Simple styling of body tag, its padding, margin and background color |
 
 
 ---
