@@ -51,5 +51,31 @@ body{
     display: flex;
     align-items: center;
     vertical-align: baseline;
-    justify-content: center
+    justify-content: center;
+}
+
+/* Search FORM*/
+
+.search{
+    display: flex;
+    align-items: center;
+    vertical-align: baseline;
+    justify-content: center;
+    padding: 18px 11px 14px;
+    max-width: 590px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search_form{
+    max-width: 590px;
+}
+
+#search_field{
+    width:70%;
+    cursor: text;
+}
+
+#search_button{
+    margin: -1px -3px -1px 0px;
 }
