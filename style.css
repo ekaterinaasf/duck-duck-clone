@@ -1,24 +1,55 @@
 body{
+    margin: 0;
+    padding: 0;
     color: #222;
     /*from the site*/
     font-family: "DDG_ProximaNova","DDG_ProximaNova_UI_0","DDG_ProximaNova_UI_1","DDG_ProximaNova_UI_2","DDG_ProximaNova_UI_3","DDG_ProximaNova_UI_4","DDG_ProximaNova_UI_5","DDG_ProximaNova_UI_6","Proxima Nova","Helvetica Neue","Helvetica","Segoe UI","Nimbus Sans L","Liberation Sans","Open Sans",FreeSans,Arial,sans-serif;
-}
-
-div{
-    display: block;
+    background: #f7f7f7;
 }
 
 .site_wrapper{
     margin: 0;
     border: 0;
-    padding: 0;
+    /*space-between:*/
     width: 100%;
     overflow: hidden;
     font: inherit;
     font-size: 100%;
     vertical-align: baseline;
+    
 }
 
-.site_wrapper_home{
-    background: #f7f7f7;
+/* HEADER WITH TWITTER-LINK AND MENU*/
+.header_wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    flex-flow: space-between;
+    /*width: 99%;*/
+    height: 44px;
+    padding: 23px 23px 0px;
+    align-items: center;
+} 
+
+.header_social{
+    margin: 0px 0px 0px 5px;
+}
+
+.header_button_menu button{
+    color: #a5a5a5;
+    margin-left: 20px;
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    height: 30px;  
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    vertical-align: baseline;
+    justify-content: center
 }
