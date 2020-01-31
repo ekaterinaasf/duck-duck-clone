@@ -12,8 +12,7 @@
 | --- | --- | --- | --- |
 | __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body`, and evaluation script | an empty main `style.css` and an existing evaluation style |
 |  | |  |  |
-| __Main structure__ | As an enthusiastic HYF student I started to copy the design of Duck Duck Go page with the main structure of div elements into [master](https://github.com/
-ekaterinaasf/duck-duck-clone/). | Index.html made with the rough draft of div structure (with main blocks and main hierarchy) | Styles for body tag |
+| __Main structure__ | As an enthusiastic HYF student I started to copy the design of Duck Duck Go page with the main structure of div elements into [master](https://github.com/ekaterinaasf/duck-duck-clone/). | Index.html made with the rough draft of div structure (with main blocks and main hierarchy) | Styles for body tag |
 
 | __Header__ | As an enthusiastic HYF student I made the first step in designing elements and added logo with the social networks link and main menu button. All this can be found [header](https://github.com/ekaterinaasf/duck-duck-clone/tree/header/). | Added two div containers for header wrapper and logo. | Added appropriate styles for these containers and their children  | 
 
