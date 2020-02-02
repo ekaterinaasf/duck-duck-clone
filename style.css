@@ -67,9 +67,11 @@ body{
     margin-right: auto;
 }
 
-.search_form{
+#search_form{
     max-width: 590px;
     height: 45px;
+    flex: 1 0 80%; /*flex grow, flex shrink, size*/
+}
 
 #search_field {
     width:70%;
@@ -83,7 +85,7 @@ body{
 /**First secrion **/
 .badge-title {
     font-weight: 800;
-    font: DDG
+    font: DDG;
     margin-bottom: auto;
     padding: 0 0 11px;
     font-size: 40px;
